@@ -433,7 +433,7 @@ recon_channel: https://recon.swansea.ac.uk/#narrow/stream/38-Introduction-to-MPI
             <li>
                 In the select packages screen, select the latest version of the following packages
                 <ol>
-                  <li> ssh </li>
+                  <li> openssh </li>
                   <li> gcc-core and gcc-fortran </li>
                   <li> openmpi, libopenmpi40, libopenmpihf08_40, libopenmpiusef08_40 and openmpi-devel </li>
                   <li> make and cmake </li>
